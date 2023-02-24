@@ -1,5 +1,6 @@
 import { Component, Input } from '@angular/core';
 import { Product } from 'src/models/modelProduct';
+import { NgOptimizedImage } from '@angular/common';
 
 @Component({
   selector: 'app-product',
